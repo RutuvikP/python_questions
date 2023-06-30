@@ -1,0 +1,35 @@
+#interger
+a=10
+print(a)
+print(type(a))
+#float
+b=1.5
+print(b)
+print(type(b))
+#boolean
+flag=True
+print(flag)
+print(type(flag))
+#string
+string_one="Hi, I'm Iron Man!!"
+print(string_one)
+print(type(string_one))
+#list
+list_one=[1,2,3,4,5]
+print(list_one)
+print(type(list_one))
+#tuple
+c=('car','bike',30,40)
+print(c)
+print(type(c))
+#dictionary
+dictt={
+    "name":"Rutuvik",
+    "age":40
+}
+print(dictt)
+print(type(dictt))
+#set
+s={1,'spartan',True}
+print(s)
+print(type(s))
